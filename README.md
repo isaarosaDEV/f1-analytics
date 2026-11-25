@@ -2,7 +2,7 @@
 
 Pipeline de dados da Fórmula 1 que coleta resultados históricos, grava em um banco SQLite, analisa a relação entre posição de largada e chegada, treina um modelo para prever o pódio e apresenta tudo em um dashboard interativo.
 
-**👉 [Abrir o dashboard](COLOQUE-AQUI-O-LINK-DO-STREAMLIT)**
+**👉 [Abrir o dashboard](https://f1-analyticcssss.streamlit.app/)**
 
 ![Mapa de largada x chegada](reports/figures/mapa_largada_chegada.png)
 
