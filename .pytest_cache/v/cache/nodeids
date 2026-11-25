@@ -1,0 +1,12 @@
+[
+  "tests/test_model.py::test_anos_completos",
+  "tests/test_model.py::test_avaliacao_walk_forward",
+  "tests/test_model.py::test_features_nao_vazam_resultado_da_propria_corrida",
+  "tests/test_model.py::test_grid_dos_boxes_vira_ultimo_mais_um",
+  "tests/test_model.py::test_importancia_tem_todas_as_variaveis",
+  "tests/test_model.py::test_podio_tem_tres_por_corrida",
+  "tests/test_pipeline.py::test_achatar_resultados",
+  "tests/test_pipeline.py::test_analises_basicas",
+  "tests/test_pipeline.py::test_carga_idempotente",
+  "tests/test_pipeline.py::test_preparar_remove_largada_dos_boxes"
+]
