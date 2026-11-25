@@ -1,0 +1,10 @@
+temporada,modelo,roc_auc,avg_precision,acertos_por_corrida
+2024,baseline_grid,0.9206,0.6573,2.0
+2024,logistica,0.9304,0.6694,1.9583
+2024,gradient_boosting,0.9332,0.6742,2.0
+2025,baseline_grid,0.9304,0.7358,2.25
+2025,logistica,0.9392,0.7741,2.1667
+2025,gradient_boosting,0.9496,0.7854,2.2917
+2026,baseline_grid,0.914,0.6548,1.8095
+2026,logistica,0.9265,0.6498,1.8095
+2026,gradient_boosting,0.9464,0.6767,1.8571
