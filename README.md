@@ -78,7 +78,7 @@ f1-analytics/
 
 ### Dados
 
-Resultados de corridas desde **AAAA**, obtidos da API Jolpica-F1: uma linha por piloto por corrida, com largada, posição final, pontos, voltas e status. A carga é idempotente: rodar a coleta duas vezes não duplica registros.
+Resultados de corridas desde **2010**, obtidos da API Jolpica-F1: uma linha por piloto por corrida, com largada, posição final, pontos, voltas e status. A carga é idempotente: rodar a coleta duas vezes não duplica registros.
 
 ### Análise de largada x chegada
 
