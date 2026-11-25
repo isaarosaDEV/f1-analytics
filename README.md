@@ -12,12 +12,12 @@ Pipeline de dados da Fórmula 1 que coleta resultados históricos, grava em um b
 
 ## Principais conclusões
 
-Resultados de **AAAA a AAAA** (XX corridas):
+Resultados de **2010 a 2026** (350 corridas):
 
 - Saindo da pole, a chance de vitória é de **XX%** e a de pódio é de **XX%**.
-- A correlação entre largada e chegada (Spearman) ficou em média em **0,XX**, e **[subiu / caiu / ficou estável]** ao longo das temporadas.
-- Circuitos onde a pole mais vira vitória: **[circuito 1], [circuito 2]**. Onde menos vira: **[circuito 3]**.
-- O modelo acertou em média **X,XX dos 3 pilotos do pódio por corrida**, contra **X,XX** da regra "o pódio é quem larga na frente". **[Conclusão em uma frase: o modelo superou o baseline por X, ou apenas empatou, e o que isso significa.]**
+- A correlação entre largada e chegada (Spearman) ficou em média em **0,62**, e **[ficou relativamente estável]** ao longo das temporadas.
+- Circuitos onde a pole mais vira vitória: **[Park ZandVoort], [Yas Marina]**. Onde menos vira: **[Bahrain International]**.
+- O modelo acertou em média **2,05 dos 3 pilotos do pódio por corrida**, contra **2,02** da regra "o pódio é quem larga na frente". **[Conclusão em uma frase: o modelo superou o baseline por aproximadamente 0,03 piloto por corrida , apresentando uma vantagem muito pequena. Isso indica que a posição de largada já explica grande parte da capacidade de previsão do pódio]**
 
 <p>
   <img src="reports/figures/vitoria_por_grid.png" width="48%" alt="Chance de vitória por posição de largada">
